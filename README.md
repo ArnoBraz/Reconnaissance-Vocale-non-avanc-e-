@@ -12,10 +12,11 @@ Le système repose sur l'analyse spectrale (Transformée de Fourier) pour extrai
 
 ## 📂 Structure du Projet
 ```
-├── Main.ipynb          # Programme principal
-├── data/               # Dossier contenant les signaux
+├── Programmes
+│   └── Main.ipynb          # Programme principal
+├── Sons                    # Dossier contenant les signaux
 │   ├── apprentissage/  
-│   ├── test/           
+│   ├── test/          
 │   └── etude/          
 └── README.md           
 ```
