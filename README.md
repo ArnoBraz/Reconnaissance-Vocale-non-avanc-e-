@@ -12,12 +12,12 @@ Le système repose sur l'analyse spectrale (Transformée de Fourier) pour extrai
 
 ## 📂 Structure du Projet
 ```
-├── Main.ipynb          # Notebook principal (Code d'apprentissage et de classification)
-├── data/               # Dossier contenant les signaux (non inclus dans le repo)
-│   ├── apprentissage/  # 5 signaux par voyelle 
-│   ├── test/           # 2 signaux par voyelle pour validation
-│   └── etude/          # Signal mystère du binôme (Signal 6)
-└── README.md           # Documentation du projet
+├── Main.ipynb          # Programme principal
+├── data/               # Dossier contenant les signaux
+│   ├── apprentissage/  
+│   ├── test/           
+│   └── etude/          
+└── README.md           
 ```
 
 ## 📊 Visualisation
