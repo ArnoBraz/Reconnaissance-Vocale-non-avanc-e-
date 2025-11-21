@@ -6,7 +6,7 @@
 
 ## 📖 Description du Projet
 
-Ce projet vise à développer un algorithme de classification capable de reconnaître automatiquement les voyelles françaises **/a/, /e/, /i/, /o/ et /u/** à partir d'enregistrements sonores.
+L'objectif dans ce projet est de réaliser un algorithme de classification de voyelles capable de reconnaître automatiquement les sons /a/ /e/ /i/ /o/ et /u/.
 
 Le système repose sur l'analyse spectrale (Transformée de Fourier) pour extraire l'empreinte harmonique de chaque son et le classifier par comparaison avec une base d'apprentissage.
 
